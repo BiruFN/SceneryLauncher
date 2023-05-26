@@ -1,0 +1,9 @@
+C:\Users\BiruFN\Desktop\Scenery 2.0\SceneryLauncher\SceneryLauncher\bin\Debug\SceneryLauncher.exe.config
+C:\Users\BiruFN\Desktop\Scenery 2.0\SceneryLauncher\SceneryLauncher\bin\Debug\SceneryLauncher.exe
+C:\Users\BiruFN\Desktop\Scenery 2.0\SceneryLauncher\SceneryLauncher\bin\Debug\SceneryLauncher.pdb
+C:\Users\BiruFN\Desktop\Scenery 2.0\SceneryLauncher\SceneryLauncher\obj\Debug\SceneryLauncher.csproj.AssemblyReference.cache
+C:\Users\BiruFN\Desktop\Scenery 2.0\SceneryLauncher\SceneryLauncher\obj\Debug\SceneryLauncher.csproj.SuggestedBindingRedirects.cache
+C:\Users\BiruFN\Desktop\Scenery 2.0\SceneryLauncher\SceneryLauncher\obj\Debug\SceneryLauncher.csproj.CoreCompileInputs.cache
+C:\Users\BiruFN\Desktop\Scenery 2.0\SceneryLauncher\SceneryLauncher\obj\Debug\SceneryLauncher.exe
+C:\Users\BiruFN\Desktop\Scenery 2.0\SceneryLauncher\SceneryLauncher\obj\Debug\SceneryLauncher.pdb
+C:\Users\BiruFN\Desktop\Scenery 2.0\SceneryLauncher\SceneryLauncher\obj\Debug\SceneryLauncher.csproj.Fody.CopyLocal.cache
